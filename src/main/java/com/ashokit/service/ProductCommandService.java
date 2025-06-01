@@ -8,7 +8,7 @@ import com.ashokit.dto.ProductEvent;
 import com.ashokit.entity.Product;
 import com.ashokit.repository.ProductRepository;
 
-@Service//Ashutosh
+@Service
 public class ProductCommandService {
 
     @Autowired
