@@ -1,0 +1,6 @@
+com\ashokit\ProductCommandServiceApplication.class
+com\ashokit\entity\Product.class
+com\ashokit\service\ProductCommandService.class
+com\ashokit\dto\ProductEvent.class
+com\ashokit\controller\ProductCommandController.class
+com\ashokit\repository\ProductRepository.class
